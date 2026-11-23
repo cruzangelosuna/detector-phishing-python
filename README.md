@@ -1,1 +1,0 @@
-# detector-phishing-python
