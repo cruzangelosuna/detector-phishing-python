@@ -14,4 +14,3 @@ def analizar_url(url):
 # Ejemplo de prueba con los estudiantes
 analizar_url("https://mi-banco-seguro.com/login-verify?user=123")
 analizar_url("https://www.google.com")
-# detector-phishing-python
